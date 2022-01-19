@@ -7,7 +7,7 @@ I am an electrical undergraduate, currently interning at IQVIA as software devel
 ## Skills
 
 <p align='left'>
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.insaid.co%2Fwp-content%2Fuploads%2F2019%2F04%2FPython-logo.jpg&imgrefurl=https%3A%2F%2Fblog.insaid.co%2Fpython-r-sas-top-programming-languages-ranked%2Fpython-logo%2F&tbnid=aQDZ5z5qXKfTKM&vet=12ahUKEwicmPbg9r31AhXP8zgGHURvD2wQMygcegUIARCXAg..i&docid=sagZ_0dPLnfAbM&w=630&h=630&q=python%20logo&ved=2ahUKEwicmPbg9r31AhXP8zgGHURvD2wQMygcegUIARCXAg" alt="html" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
