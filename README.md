@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
+I am an electrical undergraduate, currently interning at IQVIA as software developer intern.I have hands on experience working with programming langauges and data structure & algorithms.I have extensively worked on big data technologies like hadoop ,spark and scala for 3 months.
 
 ---
 
@@ -18,10 +18,14 @@ I am a frontend engineer with an experience of over 5 years. I have hands on exp
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
-### MIRO
+### **SOFTWARE DEVELOPER INTERN**
+### IQVIA
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+• Working with the production operation team to deal with job failures
+ticket & re-triggering the respective failed spark job of the developers
+team by reviewing the script files and log files.
+• Colloborating with the developers team in the deployment process
+during the deployment phase.
 
 ### **FRONTEND DEVELOPER**
 ### Booking.com
@@ -37,13 +41,13 @@ Worked on java , hybris framework and promotion engine. Created registration pro
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **BIRSA INSTITUTE OF TECHNOLOGY,SINDRI**
+### BTech Electrical Engineering (2018- 2022)
+CGPA 8.50
 
 ---
 
 ### INTERESTS
 Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+I enjoy being outdoors,so i go for run everyday.I love travelling to different destinations and explore different cultures. 
