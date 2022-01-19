@@ -21,22 +21,10 @@ I am an electrical undergraduate, currently interning at IQVIA as software devel
 ### **SOFTWARE DEVELOPER INTERN**
 ### IQVIA
 
-• Working with the production operation team to deal with job failures
+Working with the production operation team to deal with job failures
 ticket & re-triggering the respective failed spark job of the developers
-team by reviewing the script files and log files.
-• Colloborating with the developers team in the deployment process
+team by reviewing the script files and log files.Colloborating with the developers team in the deployment process
 during the deployment phase.
-
-### **FRONTEND DEVELOPER**
-### Booking.com
-
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
-
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
-
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
-
 ---
 
 ## Education
