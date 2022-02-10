@@ -24,7 +24,7 @@ Data Structures & Algorithms , RDBMS, Object-Oriented Programming, Linux shell-s
    <img src="spark_logo.png" alt="react" width="auto" height="40"/>
    <img src="scala_logo.png" alt="angular" width="40" height="40"/>
    <img src="hive_logo.png" alt="angular" width="40" height="40"/>
-   <img src="impala_logo.png" alt="angular" width="60" height="60"/>
+   <img src="impala_logo.png" alt="angular" width="40" height="40"/>
   
 </p>
 
@@ -35,7 +35,7 @@ Data Structures & Algorithms , RDBMS, Object-Oriented Programming, Linux shell-s
 ### **SOFTWARE DEVELOPER INTERN**
 ### IQVIA
 
-Working with the production operation team to deal with job failures incident & re-triggering the respective failed spark job of the developers team by reviewing the script files and log files.Collaborating and helping the developers team for the deployment of code into production environment during the deployment phase.Getting exposure & learning big data technologies like hadoop, spark, scala ,hive & impala  to solve big data related problems.
+Working with the production operation team to deal with job failures incident & re-triggering the respective failed spark job of the developers team by reviewing the script files and log files.<br />Collaborating and helping the developers team for the deployment of code into production environment during the deployment phase.<br />Getting exposure & learning big data technologies like hadoop, spark, scala ,hive & impala  to solve big data related problems.
 
 ---
 
@@ -43,13 +43,13 @@ Working with the production operation team to deal with job failures incident & 
 
 ### **Face Mask Detection (python, computer vision, opencv, darknet):**
 
-• A simple machine learning model for face mask detection which can be used to detect the presence or absence of face mask.
-• Used yolov3 darknet framework for implementing the machine learning model and applied transfer learning technique.
+• A simple machine learning model for face mask detection which can be used to detect the presence or absence of face mask.<br />
+• Used yolov3 darknet framework for implementing the machine learning model and applied transfer learning technique.<br />
 • Used opencv for image processing and model inference purpose.
 
 ### **Flutter App Development (python, computer-vision, tflite, dart):**
-• Successfully built a Flutter App to identify 20 different plant leafs with some pictures using realtime database with smartphone camera
-• Used yolov3 tensorflow api for implementing the machine learning model and applied transfer learning technique for finetuning of the model.
+• Successfully built a Flutter App to identify 20 different plant leafs with some pictures using realtime database with smartphone camera.<br />
+• Used yolov3 tensorflow api for implementing the machine learning model and applied transfer learning technique for finetuning of the model.<br />
 • Converted tensorflow model to tensorflowlite model and integrated in the flutter application.
 
 ---
