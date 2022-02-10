@@ -11,6 +11,10 @@ CGPA 8.69
 
 ---
 ## Skills
+Computer Languages:
+C and C++ , Python (numpy , pandas, matplotlib, seaborn) , SQL
+Computer Science Skills:
+Data Structures & Algorithms , RDBMS, Object-Oriented Programming, Linux shell-scripting, Machine Learning.
 
 <p align='left'>
   <img src= "c++.png" alt="html" width="40" height="40">
