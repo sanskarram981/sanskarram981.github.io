@@ -36,7 +36,7 @@ Working with the production operation team to deal with job failures incident & 
 ### **Flutter app**
 
 kkdkddkdkkfkf
-### ** Face mask**
+### **Face mask**
 
 kdkdkdk
 
@@ -44,9 +44,9 @@ kdkdkdk
 ---
 ## Kaggle competitions 
 
-### **cassava**
+### **Cassava**
 hdjdkdkkd
-### **ranzcr**
+### **Ranzcr**
 ---
 ### INTERESTS
 
