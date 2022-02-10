@@ -57,11 +57,12 @@ Working with the production operation team to deal with job failures incident & 
 ## Kaggle competitions 
 
 ### **Cassava Leaf Diseases Classification Problem:**
-Participated in cassava leaf diseases classification problem organised at kaggle platform and secured 2163th rank in the leadarboard.
+Participated in cassava leaf diseases classification problem organised at kaggle platform and secured 2163th rank in the leadarboard.<br />
 [Cassava Leaf Diseases Classification Problem Link](https://www.kaggle.com/c/cassava-leaf-disease-classification)
 ### **Ranzcr Catheter Positioning Problem:**
-Participated in ranzcr catheter positioning problem organised at kaggle platform and secured 1124th rank in the leadarboard.
+Participated in ranzcr catheter positioning problem organised at kaggle platform and secured 1124th rank in the leadarboard.<br />
 [Ranzcr Catheter Positioning Problem Link](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification)
+
 ---
 ### INTERESTS
 
