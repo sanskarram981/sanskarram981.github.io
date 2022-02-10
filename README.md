@@ -55,7 +55,13 @@ Working with the production operation team to deal with job failures incident & 
 • Converted tensorflow model to tensorflowlite model and integrated in the flutter application.
 
 ---
+### **GFG & Leetcode Profile**
 
+[GFG Profile](https://auth.geeksforgeeks.org/user/electrical18/practice)<br />
+
+[Leetcode Profile](https://leetcode.com/sanskar_981/)
+
+---
 ## Kaggle competitions 
 
 ### **Cassava Leaf Diseases Classification Problem:**
