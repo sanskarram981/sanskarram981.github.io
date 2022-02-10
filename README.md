@@ -10,7 +10,14 @@ I am an electrical undergraduate, currently interning at IQVIA as software devel
 CGPA 8.69
 
 ---
-## Skills
+### **Computer Languages:**
+C and C++ , Python (numpy , pandas, matplotlib, seaborn) , SQL
+
+### **Computer Science Skills:**
+Data Structures & Algorithms , RDBMS, Object-Oriented Programming, Linux shell-scripting, Machine Learning.
+
+---
+## Frameworks
 
 <p align='left'>
    <img src= "c++.png" alt="html" width="40" height="40">
