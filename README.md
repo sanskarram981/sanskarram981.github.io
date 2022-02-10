@@ -24,7 +24,7 @@ Data Structures & Algorithms , RDBMS, Object-Oriented Programming, Linux shell-s
    <img src="spark_logo.png" alt="react" width="auto" height="40"/>
    <img src="scala_logo.png" alt="angular" width="40" height="40"/>
    <img src="hive_logo.png" alt="angular" width="40" height="40"/>
-   <img src="impala_logo.png" alt="angular" width="40" height="40"/>
+   <img src="impala_logo.png" alt="angular" width="60" height="60"/>
   
 </p>
 
