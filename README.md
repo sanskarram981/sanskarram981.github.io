@@ -1,9 +1,15 @@
 ## Portfolio
 
-I am an electrical undergraduate, currently interning at IQVIA as software developer intern.I have hands on experience working with programming langauges and data structure & algorithms.I have extensively worked on big data technologies like hadoop ,spark and scala for 3 months.
+I am an electrical undergraduate, currently interning at IQVIA as software developer intern.I have hands on experience working with programming langauges and data structure & algorithms.I have extensively worked on big data technologies like hadoop ,spark and scala for 5 months.
 
 ---
+## Education
 
+### **BIRSA INSTITUTE OF TECHNOLOGY,SINDRI**
+### BTech Electrical Engineering (2018- 2022)
+CGPA 8.69
+
+---
 ## Skills
 
 <p align='left'>
@@ -21,21 +27,27 @@ I am an electrical undergraduate, currently interning at IQVIA as software devel
 ### **SOFTWARE DEVELOPER INTERN**
 ### IQVIA
 
-Working with the production operation team to deal with job failures
-ticket & re-triggering the respective failed spark job of the developers
-team by reviewing the script files and log files.Colloborating with the developers team in the deployment process
-during the deployment phase
+Working with the production operation team to deal with job failures incident & re-triggering the respective failed spark job of the developers team by reviewing the script files and log files.Collaborating and helping the developers team for the deployment of code into production environment during the deployment phase.Getting exposure & learning big data technologies like hadoop, spark, scala ,hive & impala  to solve big data related problems.
 
 ---
 
-## Education
+## Projects
 
-### **BIRSA INSTITUTE OF TECHNOLOGY,SINDRI**
-### BTech Electrical Engineering (2018- 2022)
-CGPA 8.50
+### **Flutter app**
+
+kkdkddkdkkfkf
+### ** Face mask**
+
+kdkdkdk
+
 
 ---
+## Kaggle competitions 
 
+### **cassava**
+hdjdkdkkd
+### **ranzcr**
+---
 ### INTERESTS
 
 I enjoy being outdoors,so i go for run everyday.I love travelling to different destinations and explore different cultures. 
